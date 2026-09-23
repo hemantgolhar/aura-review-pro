@@ -5,6 +5,7 @@ export default function SuperAdmin() {
   return (
     <main className="page">
       <header className="page-header">
+        <p className="eyebrow">Aura Review Pro</p>
         <h1>Super Admin</h1>
       </header>
       <article className="card">

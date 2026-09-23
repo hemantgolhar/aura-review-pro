@@ -89,6 +89,7 @@ export default function CustomerPage() {
   return (
     <main className="page customer-page">
       <header className="page-header customer-header">
+        <p className="eyebrow">Aura Review Pro</p>
         <div className="restaurant-mark" aria-hidden="true">DR</div>
         <h1>{demoRestaurant.name}</h1>
       </header>

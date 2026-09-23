@@ -53,6 +53,7 @@ export default function RestaurantAdmin() {
   return (
     <main className="page admin-page">
       <header className="page-header">
+        <p className="eyebrow">Aura Review Pro</p>
         <h1>{demoRestaurant.name} Dashboard</h1>
       </header>
       <div className="card-grid admin-summaries">
